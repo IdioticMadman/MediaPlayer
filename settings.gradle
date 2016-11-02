@@ -1,0 +1,1 @@
+include ':app', ':vitamio-sample', ':vitamio', ':TestModul', ':webrtc', ':videoviewdemo', ':ijkplayer', ':jcvideoplayer-lib', ':jcvideoplayer'
